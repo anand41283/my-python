@@ -1,0 +1,5 @@
+a=int(input("Enter num 1 = "))
+b=int(input("Enter num 2 = "))
+c=int(input("Enter num 3 = "))
+avg=((a+b+c)/3)
+print ("average of given numbers is = ", avg)

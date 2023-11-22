@@ -1,0 +1,5 @@
+p=int(input("Enter the amount: "))
+t=int(input("Enter the duration per month: "))
+r=int(input("Enter the rate of interest: "))
+simple=((p*t*r)/100)
+print("The simple rate of interest is: ", simple)

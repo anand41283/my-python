@@ -1,0 +1,5 @@
+tuple2=('asha','namitha','neelima','shobika','nidhila')
+x=list(tuple2)
+x.remove("namitha")
+n=tuple(x)
+print(n)
